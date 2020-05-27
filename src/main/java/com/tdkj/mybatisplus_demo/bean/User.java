@@ -6,7 +6,7 @@ import com.baomidou.mybatisplus.annotation.TableId;
 import com.baomidou.mybatisplus.annotation.TableName;
 import lombok.Data;
 
-//123123123
+//1231231231123123
 @Data
 @TableName("user")
 public class User {
