@@ -7,7 +7,7 @@ import com.baomidou.mybatisplus.annotation.TableName;
 import lombok.Data;
 
 import javax.validation.constraints.Email;
-
+//uoiuoiu
 @Data
 @TableName("user")
 public class User {
@@ -20,5 +20,5 @@ public class User {
     @TableField(value = "email")
     String email;
 
-    String cdcard;
+
 }
